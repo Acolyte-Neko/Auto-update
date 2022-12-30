@@ -1,5 +1,5 @@
 $--0.0.3--
-+assets/note.png
+-assets/note.png
 
 
 $--0.0.2--
