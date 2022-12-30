@@ -1,3 +1,9 @@
+$--0.0.5--
+-assets/note.png
+-assets/note_left.png
++assets/note_letttft.png
+
+
 $--0.0.4--
 +assets/note.png
 +assets/note_left.png
