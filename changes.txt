@@ -1,18 +1,51 @@
+$--0.0.6--
++assets/blue.png
++assets/center_glow.png
++assets/dark.png
++assets/dblue.png
++assets/glow.png
++assets/glow_blue.png
++assets/glow_green.png
++assets/glow_purple.png
++assets/glow_red.png
++assets/gray.png
++assets/green.png
++assets/hold_blue.png
++assets/hold_dark.png
++assets/hold_dblue.png
++assets/hold_gray.png
++assets/hold_green.png
++assets/hold_purple.png
++assets/hold_red.png
++assets/hold_violet.png
++assets/hold_yellow.png
++assets/purple.png
++assets/receptor.png
++assets/receptor_center.png
++assets/red.png
++assets/tail_blue.png
++assets/tail_dark.png
++assets/tail_dblue.png
++assets/tail_gray.png
++assets/tail_green.png
++assets/tail_purple.png
++assets/tail_red.png
++assets/tail_violet.png
++assets/tail_yellow.png
++assets/violet.png
++assets/yellow.png
+
+
 $--0.0.5--
--assets/note.png
--assets/note_left.png
-+assets/note_letttft.png
++assets/note.png
 
 
 $--0.0.4--
 +assets/note.png
-+assets/note_left.png
--assets/note_letttft.png
 
 
 $--0.0.3--
--assets/note.png
-+assets/note_letttft.png
++assets/note.png
 
 
 $--0.0.2--
